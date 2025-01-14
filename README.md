@@ -1,6 +1,6 @@
 > DrissionPage can now set English error and prompt messages: [Set Language](https://drissionpage.cn/get_start/set_lang)
 
-# ✨️ 概述
+# ✨️ Overview
 
 DrissionPage is a Python-based web automation tool.
 
